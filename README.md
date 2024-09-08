@@ -35,16 +35,15 @@ To get started with the project, follow these steps:
    
 2. **Navigate to the project directory**:
    ```bash
-   git clone https://github.com/Jaimin-Bhagat/reactjs-todolist.git
-   
+   cd reactjs-todolist
 
 3. **Install the dependencies**:
    ```bash
-   git clone https://github.com/Jaimin-Bhagat/reactjs-todolist.git
+   npm install
    
 4. **Start the development server**:
    ```bash
-   git clone https://github.com/Jaimin-Bhagat/reactjs-todolist.git
+   npm start
    
 
 Usage
