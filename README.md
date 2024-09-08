@@ -9,8 +9,7 @@
 - Installation
 - Usage
 - Contributing
-- License
-- Contact
+
 
 ## Description
 
