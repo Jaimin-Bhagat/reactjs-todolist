@@ -1,40 +1,48 @@
- React + Vite
- 
-ReactJS To-Do List
-Description
-This project is a simple and intuitive To-Do List application built using ReactJS. It allows users to add, edit, and delete tasks, helping them manage their daily activities efficiently.
+# ReactJS To-Do List
 
-Features
-Add new tasks
-Edit existing tasks
-Delete tasks
-Mark tasks as completed
-Responsive design
-Installation
+!ReactJS To-Do List
+
+## Table of Contents
+
+- Description
+- Features
+- Installation
+- Usage
+- Contributing
+- License
+- Contact
+
+## Description
+
+This project is a simple and intuitive To-Do List application built using ReactJS. It allows users to manage their daily tasks efficiently by adding, editing, and deleting tasks.
+
+## Features
+
+- **Add New Tasks**: Easily add new tasks to your to-do list.
+- **Edit Tasks**: Modify existing tasks to keep your list up-to-date.
+- **Delete Tasks**: Remove tasks that are no longer needed.
+- **Mark Tasks as Completed**: Keep track of completed tasks.
+- **Responsive Design**: Works seamlessly on both desktop and mobile devices.
+
+## Installation
+
 To get started with the project, follow these steps:
 
-Clone the repository:
-git clone https://github.com/Jaimin-Bhagat/reactjs-todolist.git
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Jaimin-Bhagat/reactjs-todolist.git
+   
+2. Navigate to the project directory
+ ```bash
+   cd reactjs-todolist
 
-Navigate to the project directory:
-cd reactjs-todolist
+3. Install the dependencies:
+ ```bash
+  npm install
 
-Install the dependencies:
-npm install
-
-Start the development server:
-npm start
+4. Start the development server:
+ ```bash
+  npm start
 
 Usage
 Once the development server is running, you can access the application in your browser at http://localhost:3000. Use the interface to add, edit, and delete tasks as needed.
-
-Contributing
-Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Contact
-If you have any questions or need further assistance, feel free to contact the project maintainer:
-
-Name: Jaimin Bhagat
