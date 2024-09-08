@@ -43,8 +43,11 @@ To get started with the project, follow these steps:
    
 4. **Start the development server**:
    ```bash
-   npm start
-   
+   npm start 
 
-Usage
-Once the development server is running, you can access the application in your browser at http://localhost:3000. Use the interface to add, edit, and delete tasks as needed.
+<h2>Usage</h2>
+<p>Once the development server is running, you can access the application in your browser at <code>http://localhost:3000</code>. Use the interface to add, edit, and delete tasks as needed.</p>
+
+<h2>Contributing</h2>
+<p>Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.</p>
+
