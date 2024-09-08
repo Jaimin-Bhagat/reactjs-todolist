@@ -1,7 +1,6 @@
-# ReactJS To-Do List
+#ReactJS To-Do List
 
-![ReactJS To-Do List](https://img.shields.io/badge/ReactJS-ToDoList-blue)![image](https://github.com/user-attachments/assets/c04baa29-6dd4-409e-8ba3-970c98c6d05e)
-
+![ReactJS To-Do List](https://img.shields.io/badge/ReactJS-ToDoList-blue)
 
 ## Table of Contents
 
