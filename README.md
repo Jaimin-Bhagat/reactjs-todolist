@@ -1,6 +1,7 @@
 # ReactJS To-Do List
 
-!ReactJS To-Do List
+![ReactJS To-Do List](https://img.shields.io/badge/ReactJS-ToDoList-blue)![image](https://github.com/user-attachments/assets/c04baa29-6dd4-409e-8ba3-970c98c6d05e)
+
 
 ## Table of Contents
 
@@ -32,17 +33,19 @@ To get started with the project, follow these steps:
    ```bash
    git clone https://github.com/Jaimin-Bhagat/reactjs-todolist.git
    
-2. Navigate to the project directory
- ```bash
-   cd reactjs-todolist
+2. **Navigate to the project directory**:
+   ```bash
+   git clone https://github.com/Jaimin-Bhagat/reactjs-todolist.git
+   
 
-3. Install the dependencies:
- ```bash
-  npm install
-
-4. Start the development server:
- ```bash
-  npm start
+3. **Install the dependencies**:
+   ```bash
+   git clone https://github.com/Jaimin-Bhagat/reactjs-todolist.git
+   
+4. **Start the development server**:
+   ```bash
+   git clone https://github.com/Jaimin-Bhagat/reactjs-todolist.git
+   
 
 Usage
 Once the development server is running, you can access the application in your browser at http://localhost:3000. Use the interface to add, edit, and delete tasks as needed.
