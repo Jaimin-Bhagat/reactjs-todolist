@@ -47,6 +47,9 @@ To get started with the project, follow these steps:
 
 <h2>Usage</h2>
 <p>Once the development server is running, you can access the application in your browser at <code>http://localhost:3000</code>. Use the interface to add, edit, and delete tasks as needed.</p>
+<p>Alternatively, you can access the live version of the application hosted on Netlify:</p>
+<p><a href="https://reactjs-toodoss.netlify.app/">ReactJS To-Do List Live</a></p>
+
 
 <h2>Contributing</h2>
 <p>Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.</p>
